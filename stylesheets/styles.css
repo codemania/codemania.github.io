@@ -1,4 +1,3 @@
-@import "//cdn.jsdelivr.net/pure/0.5.0/pure-min.css";
 @import "Lunchbox.css";
 .basic-content-page h1,
 .basic-content-page h2,
@@ -11,7 +10,7 @@
 }
 .basic-content-page h1,
 .basic-content-page h2 {
-  color: #fc008b;
+  color: #FC008B;
   text-transform: uppercase;
   font-weight: normal;
   text-shadow: 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb;
@@ -156,7 +155,7 @@
   }
 }
 body {
-  background-color: #35267b;
+  background-color: #35267B;
   color: #dbd3eb;
   font-size: 24pt;
   line-height: 26pt;
@@ -167,7 +166,7 @@ body {
   margin: 0 auto;
 }
 .basic-content-page {
-  background: #35267b url('/images/2016/stars_background.svg') 0 0 repeat;
+  background: #35267B url('/images/2016/stars_background.svg') 0 0 repeat;
   margin-top: 70px;
   margin-bottom: 40px;
 }
@@ -178,14 +177,14 @@ body {
 }
 .navbar-default .navbar-nav,
 .navbar-default .navbar-default .navbar-brand {
-  color: #fc008b;
+  color: #FC008B;
   font-weight: bold;
 }
 .navbar-default .navbar-nav > li > a,
 .navbar-default .navbar-default .navbar-brand > li > a,
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-default .navbar-brand > .active > a {
-  color: #fc008b;
+  color: #FC008B;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-default .navbar-brand > li > a:hover,
@@ -235,13 +234,13 @@ body {
   margin-left: -90px;
 }
 .hilite {
-  color: #fc008b;
+  color: #FC008B;
 }
 .hilite.email {
   text-decoration: underline;
 }
 a.hilite:hover {
-  color: #fc008b;
+  color: #FC008B;
 }
 .titleImageContainer {
   height: 130px;
@@ -299,12 +298,12 @@ a.hilite:hover {
   line-height: 20pt;
 }
 .tickets-box table .ticket-row-odd td {
-  background: #5d4d78;
+  background: #5D4D78;
   cursor: pointer;
 }
 .tickets-box table .ticket-row-even td {
-  color: #002e46;
-  background: #dbd3eb;
+  color: #002E46;
+  background: #DBD3EB;
   cursor: pointer;
 }
 .speaker1 {
@@ -602,14 +601,14 @@ table.agenda-table tbody td {
   border: dotted 1px white;
 }
 table.agenda-table tbody td h3 {
-  color: #fc008b;
+  color: #FC008B;
 }
 table.agenda-table tbody td a {
   color: #dbd3eb;
   text-decoration: none;
 }
 table.agenda-table tbody td a:hover {
-  color: #fc008b;
+  color: #FC008B;
 }
 table.agenda-table tbody td p {
   margin: 2px;
@@ -619,7 +618,7 @@ table.agenda-table tbody td p.speaker {
   font-size: 18pt;
 }
 #conversations a {
-  color: #fc008b;
+  color: #FC008B;
   text-decoration: none;
 }
 #conversations a:hover {

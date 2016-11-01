@@ -3,23 +3,25 @@ layout: default
 years: [2012, 2013, 2014, 2015, 2016]
 ---
 
-<div class="pure-g">
+<div class="centerStage">
 
-	{% for year in page.years %}
-	<div class="pure-u-1-5">
-		<a href="/{{year}}/index.html" {% if page.year == year %} class="selected" {% endif %}>
-			<h1 class="center lunchBox huge">{{year}}</h1>
-		</a>
+	<div class="row">
+		{% for year in page.years %}
+		<div class="col-xs-3">
+			<a href="/{{year}}/index.html" {% if page.year == year %} class="selected" {% endif %}>
+				<h1 class="center lunchBox huge">{{year}}</h1>
+			</a>
+		</div>
+		{% endfor %}
 	</div>
-	{% endfor %}
 
-
-	{% for speaker in page.speakers %}
-	<div class="pure-u-1-3">
-		<a href="/{{ page.year }}/{{ speaker.twitter }}.html">
-			<h1 class="center lunchBox large">{{ speaker.name }}</h1>
-		</a>
+	<div class="row">
+		{% for speaker in page.speakers %}
+		<div class="col-xs-6 col-lg-4">
+			<a href="/{{ page.year }}/{{ speaker.twitter }}.html">
+				<h1 class="center lunchBox large">{{ speaker.name }}</h1>
+			</a>
+		</div>
+		{% endfor %}
 	</div>
-	{% endfor %}
-
 </div>

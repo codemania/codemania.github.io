@@ -3,33 +3,39 @@ layout: default
 years: [2012, 2013, 2014, 2015, 2016]
 ---
 
-<div class="pure-g centerStage">
+<div class="centerStage">
 
-
-	{% for year in page.years %}
-	<div class="pure-u-1-5">
-		<a href="/{{year}}/index.html">
-			<h1 class="center lunchBox extraLarge">{{year}}</h1>
-		</a>
+	<div class="row">
+		{% for year in page.years %}
+		<div class="col-xs-3">
+			<a href="/{{year}}/index.html">
+				<h1 class="center lunchBox extraLarge">{{year}}</h1>
+			</a>
+		</div>
+		{% endfor %}
 	</div>
-	{% endfor %}
 
-
-	<div class="pure-u-1">
-		<h1>{{ page.speakerName }}</h1>
+	<div class="row">
+		<div class="col-xs-6 col-sm-4">
+			<img alt="{{ page.speakerName }}" src="/images/speakers/{{ page.speakerImage }}" width="180px" />
+		</div>
+		<div class="col-xs-12 col-sm-8">
+			<h1>{{ page.speakerName }}</h1>
+		</div>
 	</div>
-	<div class="pure-u-1 pure-u-lg-2-5">
-		<img alt="{{ page.speakerName }}" src="/images/speakers/{{ page.speakerImage }}" width="180px" />
-	</div>
-	<div class="pure-u-1 pure-u-lg-3-5">
-		<p>{{ page.speakerBio }}</p>
+	<div class="row">
+		<div class="col-xs-12">
+			<p>{{ page.speakerBio }}</p>
+		</div>
 	</div>
 	{% for talk in page.talks %}
-	<div class="pure-u-1 breathingSpace">
-		<h3>{{ talk.title }}</h3>
-		<p>{{ talk.abstract }}</p>
-		<iframe width="560" height="315" src="{{talk.link}}" frameborder="0" allowfullscreen></iframe>
+	<div class="row">
+		<div class="col-xs-12 breathingSpace">
+			<h3>{{ talk.title }}</h3>
+			<p>{{ talk.abstract }}</p>
+			<iframe width="560" height="315" src="{{talk.link}}" frameborder="0" allowfullscreen></iframe>
+		</div>
+		<div class="col-xs-12 breathingSpace"></div>
 	</div>
-	<div class="pure-u-1 breathingSpace"></div>
 	{% endfor %}
 </div>
