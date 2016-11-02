@@ -10,10 +10,10 @@
 }
 .basic-content-page h1,
 .basic-content-page h2 {
-  color: #FC008B;
+  color: #FFAD5E;
   text-transform: uppercase;
   font-weight: normal;
-  text-shadow: 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb;
+  text-shadow: 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525;
 }
 .lunchBox-bold {
   font-family: LunchBox-Bold;
@@ -155,7 +155,7 @@
   }
 }
 body {
-  background-color: #35267B;
+  background-color: #208648;
   color: #dbd3eb;
   font-size: 24pt;
   line-height: 26pt;
@@ -171,20 +171,20 @@ body {
   margin-bottom: 40px;
 }
 .navbar-default {
-  background-color: rgba(37, 27, 86, 0.8);
+  background-color: rgba(255, 255, 255, 0.8);
   border: none;
   font-size: 0.8em;
 }
 .navbar-default .navbar-nav,
 .navbar-default .navbar-default .navbar-brand {
-  color: #FC008B;
+  color: #FFAD5E;
   font-weight: bold;
 }
 .navbar-default .navbar-nav > li > a,
 .navbar-default .navbar-default .navbar-brand > li > a,
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-default .navbar-brand > .active > a {
-  color: #FC008B;
+  color: #FFAD5E;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-default .navbar-brand > li > a:hover,
@@ -198,7 +198,7 @@ body {
 .navbar-default .navbar-default .navbar-brand > li > a:focus,
 .navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-default .navbar-brand > .active > a:focus {
-  color: #dbd3eb;
+  color: #005525;
 }
 @media (min-width: 768px) {
   .navbar .navbar-nav {
@@ -234,13 +234,13 @@ body {
   margin-left: -90px;
 }
 .hilite {
-  color: #FC008B;
+  color: #FFAD5E;
 }
 .hilite.email {
   text-decoration: underline;
 }
 a.hilite:hover {
-  color: #FC008B;
+  color: #FFAD5E;
 }
 .titleImageContainer {
   height: 130px;
@@ -601,14 +601,14 @@ table.agenda-table tbody td {
   border: dotted 1px white;
 }
 table.agenda-table tbody td h3 {
-  color: #FC008B;
+  color: #FFAD5E;
 }
 table.agenda-table tbody td a {
   color: #dbd3eb;
   text-decoration: none;
 }
 table.agenda-table tbody td a:hover {
-  color: #FC008B;
+  color: #FFAD5E;
 }
 table.agenda-table tbody td p {
   margin: 2px;
@@ -618,7 +618,7 @@ table.agenda-table tbody td p.speaker {
   font-size: 18pt;
 }
 #conversations a {
-  color: #FC008B;
+  color: #FFAD5E;
   text-decoration: none;
 }
 #conversations a:hover {

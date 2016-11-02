@@ -1,6 +1,6 @@
 ---
 layout: indexlayout
-title: Codemania 2016 - New Zealand's Premier Software Conference
+title: Codemania 2017 - New Zealand's Premier Software Conference
 ---
 <div class="parallax" id="parallax-box">
   <div class="parallax__layer parallax__layer--back">
@@ -27,11 +27,11 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
         <img src="/images/2016/luchanaut_1.svg" class="luchanaut" />
       </div>
       <!-- 8/12 width column on medium and small screens, 9/12 width on x-small -->
-      <div class="col-sm-8 col-sm-offset-0 col-xs-10 col-xs-offset-1" itemprop="name" name="Codemania 2016">
-        <img src="/images/2016/masthead.svg" class="masthead" id="masthead" />
+      <div class="col-sm-8 col-sm-offset-0 col-xs-10 col-xs-offset-1" itemprop="name" name="Codemania 2017">
+        <img src="/images/2017/logo.svg" class="masthead" id="masthead" />
       </div>
       <div class="col-sm-2 col-sm-offset-0 col-xs-6 col-xs-offset-3">
-        <a target="_blank" href="https://codemania-2016.lilregie.com/"><img src="/images/2016/buy-tickets.svg" class="buytickets" /></a>
+        <a target="_blank" href="https://codemania-2016.lilregie.com/"><img src="/images/2017/buy-tickets.svg" class="buytickets" /></a>
       </div>
       <div class="col-sm-1 hidden-xs">
         <img src="/images/2016/luchanaut_2.svg" class="luchanaut2" />
