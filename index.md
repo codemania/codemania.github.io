@@ -39,7 +39,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
     </div>
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="speakers">
-        <img src="/images/2016/title_speakers.png" class="titleImage" alt="Speakers"/>
+        Speakers
       </div>
     </div>
     <div class="row speaker-row oswald-bold">
@@ -139,7 +139,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
     </div>
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="about">
-        <img src="/images/2016/title_about.png" class="titleImage" alt="About"/>
+        About
       </div>
     </div>
     <div class="row">
@@ -167,7 +167,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
     </div>
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="tickets">
-        <img src="/images/2016/title_tickets.png" class="titleImage" alt="Tickets"/>
+        Tickets
       </div>
     </div>
     <div class="row">
@@ -218,7 +218,6 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
         <p>* When purchased with a conference ticket</p>
       </div>
     </div>
-
     <div class="row">
       <div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
         <img src="/images/2016/luchanaut_3_shuttle.svg" class="luchanaut3shuttle" />
@@ -226,7 +225,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
     </div>
     <div class="row">
       <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="sponsors">
-        <img src="/images/2016/title_sponsors.png" class="titleImage" alt="Sponsors"/>
+        Sponsors
       </div>
     </div>
     <div class="row sponsor-row">
@@ -287,7 +286,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
     </div>
     <div class="row">
       <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="friends">
-        <img src="/images/2016/title_friends.png" class="titleImage" alt="Friends of Codemania"/>
+        Friends
       </div>
     </div>
     <div class="row sponsor-row">

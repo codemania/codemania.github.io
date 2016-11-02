@@ -156,7 +156,7 @@
 }
 body {
   background-color: #208648;
-  color: #dbd3eb;
+  color: #fff;
   font-size: 24pt;
   line-height: 26pt;
 }
@@ -244,8 +244,13 @@ a.hilite:hover {
 }
 .titleImageContainer {
   height: 130px;
-  padding-top: 70px;
+  padding-top: 30px;
   margin-bottom: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+  background: url(/images/2017/lances.svg) no-repeat 50% top;
+  color: white;
 }
 .titleImage {
   height: 60px;
@@ -604,7 +609,7 @@ table.agenda-table tbody td h3 {
   color: #FFAD5E;
 }
 table.agenda-table tbody td a {
-  color: #dbd3eb;
+  color: #fff;
   text-decoration: none;
 }
 table.agenda-table tbody td a:hover {
@@ -622,7 +627,7 @@ table.agenda-table tbody td p.speaker {
   text-decoration: none;
 }
 #conversations a:hover {
-  color: #dbd3eb;
+  color: #fff;
 }
 @media screen and (max-width: 48em) {
   #menu a {
