@@ -160,8 +160,7 @@ body {
   font-size: 24pt;
   line-height: 26pt;
 }
-.parallax__layer--base,
-.parallax__layer--objects {
+.parallax__layer--base {
   max-width: 1500px;
   margin: 0 auto;
 }
@@ -171,7 +170,7 @@ body {
   margin-bottom: 40px;
 }
 .navbar-default {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: #fff;
   border: none;
   font-size: 0.8em;
 }
@@ -224,13 +223,13 @@ body {
   padding: 0;
 }
 .masthead {
-  width: 95%;
-  margin-top: 120px;
+  width: 91.5%;
+  margin-top: 145px;
   margin-bottom: 150px;
 }
 .buytickets {
-  width: 125%;
-  margin-top: 90px;
+  width: 157%;
+  margin-top: 193px;
   margin-left: -90px;
 }
 .hilite {
@@ -244,7 +243,7 @@ a.hilite:hover {
 }
 .titleImageContainer {
   height: 130px;
-  padding-top: 30px;
+  padding-top: 38px;
   margin-bottom: 30px;
   text-align: center;
   text-transform: uppercase;
@@ -262,16 +261,50 @@ a.hilite:hover {
   text-align: center;
 }
 .speaker-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
   text-transform: uppercase;
-  font-size: 18pt;
+  font-size: 18px;
+  line-height: 1.2em;
+  max-width: 760px;
+  margin: 0 auto 200px;
 }
 .speaker-row .speaker-box {
   text-align: center;
-  height: 290px;
+  width: 150px;
+  margin: 30px 20px;
 }
 .speaker-row .speaker-box img {
   width: 150px;
   height: auto;
+  margin: 0 0 15px;
+  display: block;
+}
+.about-title {
+  position: relative;
+}
+.about-title .peggy {
+  width: 46%;
+  height: auto;
+  position: absolute;
+  top: -120%;
+  left: 2%;
+}
+.about-title .fuobe1 {
+  width: 10%;
+  height: auto;
+  position: absolute;
+  top: -100%;
+  right: 20%;
+}
+.about-text {
+  font-size: 18px;
+  line-height: 1.2em;
+}
+.about-text p {
+  margin: 0 0 1.5em;
 }
 .sponsor-row .cm-sponsor-box {
   height: 120px;
@@ -311,31 +344,9 @@ a.hilite:hover {
   background: #DBD3EB;
   cursor: pointer;
 }
-.speaker1 {
-  -webkit-animation: spacejail-skew-1 10s ease-in-out infinite alternate;
-  animation: spacejail-skew-1 10s ease-in-out infinite alternate;
-}
-.speaker2 {
-  -webkit-animation: spacejail-skew-1 20s ease-in-out infinite alternate;
-  animation: spacejail-skew-1 20s ease-in-out infinite alternate;
-}
-.speaker3 {
-  -webkit-animation: spacejail-skew-3 20s ease-in-out infinite alternate;
-  animation: spacejail-skew-3 20s ease-in-out infinite alternate;
-}
-.speaker4 {
-  -webkit-animation: spacejail-skew-2 6s ease-in-out infinite alternate;
-  animation: spacejail-skew-2 6s ease-in-out infinite alternate;
-}
 .speaker-image-container {
-  -webkit-animation: spacejail-rotate-1 30s ease-in-out infinite alternate;
-  animation: spacejail-rotate-1 30s ease-in-out infinite alternate;
   height: 205px;
   margin-bottom: -60px;
-}
-.speaker-image-container:hover {
-  -webkit-animation: spacejail-rotate-4 2.5s cubic-bezier(0.1, 0.7, 1, 0.1) 1 alternate forwards;
-  animation: spacejail-rotate-4 2.5s cubic-bezier(0.1, 0.7, 1, 0.1) 1 alternate forwards;
 }
 .two {
   animation-duration: 20s;
@@ -354,7 +365,7 @@ a.hilite:hover {
   font-size: 0.7em;
   line-height: 1.3em;
   text-transform: none;
-  margin-top: -20px;
+  margin-top: -10px;
   font-weight: light;
 }
 .luchanaut {
@@ -418,16 +429,33 @@ a.hilite:hover {
   height: 100%;
 }
 .stars {
-  background: transparent url("/images/2016/stars_background.png") repeat;
+  background: transparent url("/images/2017/star-bg.png") repeat;
   background-size: 80%;
   height: 2300px;
   opacity: 0.5;
 }
 .stars-deep {
-  background: transparent url("/images/2016/stars_background.png") repeat;
+  background: transparent url("/images/2017/star-bg.png") repeat;
   background-size: 70%;
   height: 1600px;
   opacity: 0.5;
+}
+.clouds1 {
+  position: absolute;
+  top: 185px;
+  height: auto;
+  margin: auto -30%;
+}
+.clouds2 {
+  position: absolute;
+  top: 800px;
+  height: auto;
+  margin: auto -10%;
+}
+.sils1 {
+  position: absolute;
+  top: 100px;
+  width: 100%;
 }
 .asteroid1 {
   width: 450px;

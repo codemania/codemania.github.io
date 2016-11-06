@@ -1,0 +1,155 @@
+
+.parallax {
+  perspective: 300px;
+  height: 100vh;
+  overflow-x: hidden;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  overflow-y: scroll; /* has to be scroll, not auto */
+  -webkit-overflow-scrolling: touch;
+}
+
+.parallax__layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0
+}
+
+.parallax__layer--base {
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0)
+}
+
+.parallax__layer--back {
+  -webkit-transform: translateZ(-300px) scale(2);
+  transform: translateZ(-300px) scale(2);
+  height: 100%
+}
+
+.parallax__layer--deep {
+  -webkit-transform: translateZ(-600px) scale(3);
+  transform: translateZ(-600px) scale(3);
+  height: 100%
+}
+
+.parallax__layer--objects {
+  -webkit-transform: translateZ(-100px) scale(1);
+  transform: translateZ(-100px) scale(1);
+  height: 100%
+}
+
+.stars {
+  background: transparent url("/images/2017/star-bg.png") repeat;
+  background-size: 80%;
+  height: 2300px;
+  opacity: 0.5
+}
+
+.stars-deep {
+  background: transparent url("/images/2017/star-bg.png") repeat;
+  background-size: 70%;
+  height: 1600px;
+  opacity: 0.5
+}
+
+.clouds1 {
+  position: absolute;
+  top: 185px;
+  height: auto;
+  margin: auto -30%;
+}
+
+.clouds2 {
+  position: absolute;
+  top: 800px;
+  height: auto;
+  margin: auto -10%;
+}
+
+.sils1 {
+  position: absolute;
+  top: 100px;
+  width: 100%;
+}
+
+.asteroid1 {
+  width: 450px;
+  height: auto;
+  margin-top: -350px;
+  margin-left: -50px
+}
+
+.asteroid2 {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 1000px;
+  top: 400px
+}
+
+.swirl1 {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: -50px;
+  top: 200px
+}
+
+.swirl2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: -50px;
+  top: 2000px
+}
+
+.planet1 {
+  width: 270px;
+  height: 200px;
+  position: absolute;
+  top: 360px;
+  left: 38%
+}
+
+.shuttle3 {
+  width: 60px;
+  height: auto;
+  position: absolute;
+  top: 50px;
+  left: 65%
+}
+
+.alien1 {
+  width: 160px;
+  height: auto;
+  position: absolute;
+  right: 190px;
+  top: 460px
+}
+
+.alien3, .shuttle4 {
+  width: 100%;
+  height: auto;
+  margin-top: -70px
+}
+
+.luchanaut4 {
+  width: 100%;
+  margin-top: -20px;
+  margin-bottom: -50px;
+  height: auto;
+}
+
+.shuttle1 {
+  width: 70%;
+  margin-top: 0px;
+  margin-bottom: -50px;
+}
+
+.skull {
+  width: 120%;
+  margin-top: 2500px;
+  margin-left: -120px
+}
