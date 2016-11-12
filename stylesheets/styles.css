@@ -306,6 +306,9 @@ a.hilite:hover {
 .about-text p {
   margin: 0 0 1.5em;
 }
+.tickets-title {
+  margin: 50px 0 200px;
+}
 .sponsor-row .cm-sponsor-box {
   height: 120px;
   text-align: center;
@@ -336,12 +339,12 @@ a.hilite:hover {
   line-height: 20pt;
 }
 .tickets-box table .ticket-row-odd td {
-  background: #5D4D78;
+  background: rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
 .tickets-box table .ticket-row-even td {
-  color: #002E46;
-  background: #DBD3EB;
+  color: #fff;
+  background: rgba(56, 56, 56, 0.3);
   cursor: pointer;
 }
 .speaker-image-container {
@@ -455,6 +458,21 @@ a.hilite:hover {
 .sils1 {
   position: absolute;
   top: 100px;
+  width: 100%;
+}
+.sils2 {
+  position: absolute;
+  top: 2600px;
+  width: 100%;
+}
+.castle-overlay {
+  position: absolute;
+  top: 1715px;
+  width: 100%;
+}
+.castle {
+  position: absolute;
+  top: 1000px;
   width: 100%;
 }
 .asteroid1 {

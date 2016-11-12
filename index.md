@@ -10,9 +10,12 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
   </div>
   <div class="parallax__layer parallax__layer--deep">
     <div class="stars-deep"></div>
-    <img src="/images/2017/sils1.svg" class="sils1" />
-   </div>
+    <img src="/images/2017/castle.svg" class="castle" />
+    <img src="/images/2017/grad.svg" class="castle-overlay" />
+  </div>
   <div class="parallax__layer parallax__layer--objects">
+    <img src="/images/2017/sils1.svg" class="sils1" />
+    <img src="/images/2017/sils2.svg" class="sils2" />
   </div>
   <div class="parallax__layer parallax__layer--base">
     <div id="top"></div>
@@ -118,15 +121,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       <div class="col-sm-3 col-xs-1">
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-4 col-sm-offset-1 col-xs-6 col-xs-offset-3">
-        <img src="/images/2016/shuttle_4.svg" class="shuttle4" />
-      </div>
-      <div class="col-sm-4 col-sm-offset-2 hidden-xs">
-        <img src="/images/2016/alien_3.svg" class="alien3" />
-      </div>
-    </div>
-    <div class="row">
+    <div class="row tickets-title">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="tickets">
         Tickets
       </div>
@@ -177,11 +172,6 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
           </tbody>
         </table>
         <p>* When purchased with a conference ticket</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
-        <img src="/images/2016/luchanaut_3_shuttle.svg" class="luchanaut3shuttle" />
       </div>
     </div>
     <div class="row">
