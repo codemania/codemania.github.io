@@ -10,10 +10,10 @@
 }
 .basic-content-page h1,
 .basic-content-page h2 {
-  color: #FC008B;
+  color: #FFAD5E;
   text-transform: uppercase;
   font-weight: normal;
-  text-shadow: 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb;
+  text-shadow: 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525;
 }
 .lunchBox-bold {
   font-family: LunchBox-Bold;
@@ -155,13 +155,12 @@
   }
 }
 body {
-  background-color: #35267B;
-  color: #dbd3eb;
+  background-color: #208648;
+  color: #fff;
   font-size: 24pt;
   line-height: 26pt;
 }
-.parallax__layer--base,
-.parallax__layer--objects {
+.parallax__layer--base {
   max-width: 1500px;
   margin: 0 auto;
 }
@@ -171,20 +170,20 @@ body {
   margin-bottom: 40px;
 }
 .navbar-default {
-  background-color: rgba(37, 27, 86, 0.8);
+  background-color: #fff;
   border: none;
   font-size: 0.8em;
 }
 .navbar-default .navbar-nav,
 .navbar-default .navbar-default .navbar-brand {
-  color: #FC008B;
+  color: #FFAD5E;
   font-weight: bold;
 }
 .navbar-default .navbar-nav > li > a,
 .navbar-default .navbar-default .navbar-brand > li > a,
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-default .navbar-brand > .active > a {
-  color: #FC008B;
+  color: #FFAD5E;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-default .navbar-brand > li > a:hover,
@@ -198,7 +197,7 @@ body {
 .navbar-default .navbar-default .navbar-brand > li > a:focus,
 .navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-default .navbar-brand > .active > a:focus {
-  color: #dbd3eb;
+  color: #005525;
 }
 @media (min-width: 768px) {
   .navbar .navbar-nav {
@@ -224,28 +223,33 @@ body {
   padding: 0;
 }
 .masthead {
-  width: 95%;
-  margin-top: 120px;
+  width: 91.5%;
+  margin-top: 145px;
   margin-bottom: 150px;
 }
 .buytickets {
-  width: 125%;
-  margin-top: 90px;
+  width: 157%;
+  margin-top: 193px;
   margin-left: -90px;
 }
 .hilite {
-  color: #FC008B;
+  color: #FFAD5E;
 }
 .hilite.email {
   text-decoration: underline;
 }
 a.hilite:hover {
-  color: #FC008B;
+  color: #FFAD5E;
 }
 .titleImageContainer {
   height: 130px;
-  padding-top: 70px;
+  padding-top: 38px;
   margin-bottom: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+  background: url(/images/2017/lances.svg) no-repeat 50% top;
+  color: white;
 }
 .titleImage {
   height: 60px;
@@ -257,16 +261,53 @@ a.hilite:hover {
   text-align: center;
 }
 .speaker-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
   text-transform: uppercase;
-  font-size: 18pt;
+  font-size: 18px;
+  line-height: 1.2em;
+  max-width: 760px;
+  margin: 0 auto 200px;
 }
 .speaker-row .speaker-box {
   text-align: center;
-  height: 290px;
+  width: 150px;
+  margin: 30px 20px;
 }
 .speaker-row .speaker-box img {
   width: 150px;
   height: auto;
+  margin: 0 0 15px;
+  display: block;
+}
+.about-title {
+  position: relative;
+}
+.about-title .peggy {
+  width: 46%;
+  height: auto;
+  position: absolute;
+  top: -120%;
+  left: 2%;
+}
+.about-title .fuobe1 {
+  width: 10%;
+  height: auto;
+  position: absolute;
+  top: -100%;
+  right: 20%;
+}
+.about-text {
+  font-size: 18px;
+  line-height: 1.2em;
+}
+.about-text p {
+  margin: 0 0 1.5em;
+}
+.tickets-title {
+  margin: 50px 0 200px;
 }
 .sponsor-row .cm-sponsor-box {
   height: 120px;
@@ -289,8 +330,11 @@ a.hilite:hover {
 .tickets-box table thead tr td {
   padding-bottom: 15px;
 }
+.tickets-box table thead tr td.venue-column {
+  width: 60%;
+}
 .tickets-box table td {
-  width: 25%;
+  width: 20%;
   padding: 10px;
 }
 .tickets-box table p {
@@ -298,39 +342,21 @@ a.hilite:hover {
   line-height: 20pt;
 }
 .tickets-box table .ticket-row-odd td {
-  background: #5D4D78;
+  background: rgba(35, 54, 43, 0.67);
   cursor: pointer;
 }
 .tickets-box table .ticket-row-even td {
-  color: #002E46;
-  background: #DBD3EB;
+  color: #fff;
+  background: rgba(76, 92, 82, 0.84);
   cursor: pointer;
 }
-.speaker1 {
-  -webkit-animation: spacejail-skew-1 10s ease-in-out infinite alternate;
-  animation: spacejail-skew-1 10s ease-in-out infinite alternate;
-}
-.speaker2 {
-  -webkit-animation: spacejail-skew-1 20s ease-in-out infinite alternate;
-  animation: spacejail-skew-1 20s ease-in-out infinite alternate;
-}
-.speaker3 {
-  -webkit-animation: spacejail-skew-3 20s ease-in-out infinite alternate;
-  animation: spacejail-skew-3 20s ease-in-out infinite alternate;
-}
-.speaker4 {
-  -webkit-animation: spacejail-skew-2 6s ease-in-out infinite alternate;
-  animation: spacejail-skew-2 6s ease-in-out infinite alternate;
+.tickets-box p.legend {
+  text-align: right;
+  font-size: 13pt;
 }
 .speaker-image-container {
-  -webkit-animation: spacejail-rotate-1 30s ease-in-out infinite alternate;
-  animation: spacejail-rotate-1 30s ease-in-out infinite alternate;
   height: 205px;
   margin-bottom: -60px;
-}
-.speaker-image-container:hover {
-  -webkit-animation: spacejail-rotate-4 2.5s cubic-bezier(0.1, 0.7, 1, 0.1) 1 alternate forwards;
-  animation: spacejail-rotate-4 2.5s cubic-bezier(0.1, 0.7, 1, 0.1) 1 alternate forwards;
 }
 .two {
   animation-duration: 20s;
@@ -349,7 +375,7 @@ a.hilite:hover {
   font-size: 0.7em;
   line-height: 1.3em;
   text-transform: none;
-  margin-top: -20px;
+  margin-top: -10px;
   font-weight: light;
 }
 .luchanaut {
@@ -403,96 +429,79 @@ a.hilite:hover {
   height: 100%;
 }
 .parallax__layer--deep {
-  -webkit-transform: translateZ(-600px) scale(3);
-  transform: translateZ(-600px) scale(3);
+  -webkit-transform: translateZ(-400px) scale(2);
+  transform: translateZ(-400px) scale(2);
   height: 100%;
 }
 .parallax__layer--objects {
-  -webkit-transform: translateZ(-100px) scale(1);
-  transform: translateZ(-100px) scale(1);
+  -webkit-transform: translateZ(-300px) scale(1.5);
+  transform: translateZ(-300px) scale(1.5);
   height: 100%;
 }
 .stars {
-  background: transparent url("/images/2016/stars_background.png") repeat;
+  background: transparent url("/images/2017/star-bg.png") repeat;
   background-size: 80%;
   height: 2300px;
   opacity: 0.5;
 }
 .stars-deep {
-  background: transparent url("/images/2016/stars_background.png") repeat;
+  background: transparent url("/images/2017/star-bg.png") repeat;
   background-size: 70%;
   height: 1600px;
   opacity: 0.5;
 }
-.asteroid1 {
-  width: 450px;
+.clouds1 {
+  position: absolute;
+  top: 185px;
   height: auto;
-  margin-top: -350px;
-  margin-left: -50px;
+  margin: auto -30%;
 }
-.asteroid2 {
-  width: 300px;
-  height: 300px;
+.clouds2 {
   position: absolute;
-  left: 1000px;
-  top: 400px;
-}
-.swirl1 {
-  width: 150px;
-  height: 150px;
-  position: absolute;
-  left: -50px;
-  top: 200px;
-}
-.swirl2 {
-  width: 100px;
-  height: 100px;
-  position: absolute;
-  left: -50px;
-  top: 2000px;
-}
-.planet1 {
-  width: 270px;
-  height: 200px;
-  position: absolute;
-  top: 360px;
-  left: 38%;
-}
-.shuttle3 {
-  width: 60px;
+  top: 800px;
   height: auto;
-  position: absolute;
-  top: 50px;
-  left: 65%;
+  margin: auto -10%;
 }
-.alien1 {
-  width: 160px;
-  height: auto;
+.sils1 {
   position: absolute;
-  right: 190px;
-  top: 460px;
-}
-.alien3,
-.shuttle4 {
+  top: 100px;
   width: 100%;
-  height: auto;
-  margin-top: -70px;
 }
-.luchanaut4 {
+.sils2 {
+  position: absolute;
+  top: 1800px;
+  width: 85%;
+}
+.castle-container {
+  position: absolute;
+  top: 1560px;
   width: 100%;
-  margin-top: -20px;
-  margin-bottom: -50px;
-  height: auto;
 }
-.shuttle1 {
-  width: 70%;
-  margin-top: 0px;
-  margin-bottom: -50px;
+.castle-container .castle {
+  width: 100%;
 }
-.skull {
-  width: 120%;
-  margin-top: 2500px;
-  margin-left: -120px;
+.castle-container .castle-overlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.moon {
+  position: absolute;
+  top: 1500px;
+  width: 25%;
+  right: 20%;
+}
+.clouds3 {
+  position: absolute;
+  top: 1600px;
+  left: -30%;
+  width: 80%;
+}
+.clouds4 {
+  position: absolute;
+  top: 2300px;
+  left: -20%;
+  width: 95%;
 }
 @media (max-width: 768px) {
   body {
@@ -601,14 +610,14 @@ table.agenda-table tbody td {
   border: dotted 1px white;
 }
 table.agenda-table tbody td h3 {
-  color: #FC008B;
+  color: #FFAD5E;
 }
 table.agenda-table tbody td a {
-  color: #dbd3eb;
+  color: #fff;
   text-decoration: none;
 }
 table.agenda-table tbody td a:hover {
-  color: #FC008B;
+  color: #FFAD5E;
 }
 table.agenda-table tbody td p {
   margin: 2px;
@@ -618,11 +627,11 @@ table.agenda-table tbody td p.speaker {
   font-size: 18pt;
 }
 #conversations a {
-  color: #FC008B;
+  color: #FFAD5E;
   text-decoration: none;
 }
 #conversations a:hover {
-  color: #dbd3eb;
+  color: #fff;
 }
 @media screen and (max-width: 48em) {
   #menu a {
