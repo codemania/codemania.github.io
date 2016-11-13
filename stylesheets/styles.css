@@ -482,6 +482,12 @@ a.hilite:hover {
   top: 1500px;
   width: 100%;
 }
+.moon {
+  position: absolute;
+  top: 1500px;
+  width: 25%;
+  right: 20%;
+}
 @media (max-width: 768px) {
   body {
     font-size: 14pt;
