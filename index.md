@@ -43,66 +43,66 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div>
     </div>
     <div class="row speaker-row oswald-bold">
-      <div class="speaker-box speaker-link" id="kiwipom">
+      <div class="speaker-box speaker-link" id="sandimetz">
+        <img src="/images/speakers/2017/sandi.png" />
+        <p>Sandi Metz</p>
+        <p class="byline">Programmer <span class="hilite"></span></p>
+      </div>
+      <div class="speaker-box speaker-link" id="madstorgersen">
+        <img src="/images/speakers/2017/mads.png" />
+        <p>Mads Torgersen</p>
+        <p class="byline">C# guy <span class="hilite">@ Microsoft</span></p>
+      </div>
+      <div class="speaker-box speaker-link" id="jessitron">
+        <img src="/images/speakers/2017/jessica.png" />
+        <p>Jessica Kerr</p>
+        <p class="byline">Engineer <span class="hilite">@ Stripe</span></p>
+      </div>
+      <div class="speaker-box speaker-link" id="aphyr">
+        <img src="/images/speakers/2017/kyle.png" />
+        <p>Kyle Kingsbury</p>
+        <p class="byline">Another Engineer <span class="hilite">@ Stripe</span></p>
+      </div>
+      <div class="speaker-box speaker-link" id="stack72">
+        <img src="/images/speakers/2017/paul.png" />
+        <p>Paul Stack</p>
+        <p class="byline">Coder <span class="hilite">@ Terraform</span></p>
+      </div>
+      <div class="speaker-box speaker-link" id="mseckington">
+        <img src="/images/speakers/2017/melinda.png" />
+        <p>Melinda Seckington</p>
+        <p class="byline">Developer <span class="hilite">@ Future Learn</span></p>
+      </div>
+      <div class="speaker-box speaker-link" id="rkoutnik">
+        <img src="/images/speakers/2017/randall.png" />
+        <p>Randall Koutnik</p>
+        <p class="byline">Engineer <span class="hilite">@ Netflix</span></p>
+      </div>
+<!--       <div class="speaker-box speaker-link" id="kiwipom">
         <img src="/images/speakers/2017/ben.png" />
         <p>Katherine Daniels</p>
         <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div>
-      <div class="speaker-box speaker-link" id="kiwipom">
+      </div> -->
+<!--       <div class="speaker-box speaker-link" id="kiwipom">
         <img src="/images/speakers/2017/ben.png" />
         <p>Katherine Daniels</p>
         <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div>
-      <div class="speaker-box speaker-link" id="kiwipom">
+      </div> -->
+<!--       <div class="speaker-box speaker-link" id="kiwipom">
         <img src="/images/speakers/2017/ben.png" />
         <p>Katherine Daniels</p>
         <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div>
-      <div class="speaker-box speaker-link" id="kiwipom">
+      </div> -->
+<!--       <div class="speaker-box speaker-link" id="kiwipom">
         <img src="/images/speakers/2017/ben.png" />
         <p>Katherine Daniels</p>
         <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div>
-      <div class="speaker-box speaker-link" id="kiwipom">
+      </div> -->
+<!--       <div class="speaker-box speaker-link" id="kiwipom">
         <img src="/images/speakers/2017/ben.png" />
         <p>Katherine Daniels</p>
         <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div>
-      <div class="speaker-box speaker-link" id="kiwipom">
-        <img src="/images/speakers/2017/ben.png" />
-        <p>Katherine Daniels</p>
-        <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div>
-      <div class="speaker-box speaker-link" id="kiwipom">
-        <img src="/images/speakers/2017/ben.png" />
-        <p>Katherine Daniels</p>
-        <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div>
-      <div class="speaker-box speaker-link" id="kiwipom">
-        <img src="/images/speakers/2017/ben.png" />
-        <p>Katherine Daniels</p>
-        <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div>
-      <div class="speaker-box speaker-link" id="kiwipom">
-        <img src="/images/speakers/2017/ben.png" />
-        <p>Katherine Daniels</p>
-        <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div>
-      <div class="speaker-box speaker-link" id="kiwipom">
-        <img src="/images/speakers/2017/ben.png" />
-        <p>Katherine Daniels</p>
-        <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div>
-      <div class="speaker-box speaker-link" id="kiwipom">
-        <img src="/images/speakers/2017/ben.png" />
-        <p>Katherine Daniels</p>
-        <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div>
-      <div class="speaker-box speaker-link" id="kiwipom">
-        <img src="/images/speakers/2017/ben.png" />
-        <p>Katherine Daniels</p>
-        <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div>
+      </div> -->
     </div>
     <div class="row about-title">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="about">
@@ -164,13 +164,13 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
             </tr>
             <tr class="ticket-row-even">
               <td>WEEKENDER</td>
-              <td class="oswald-light">$899</td>
               <td class="oswald-light">$999</td>
+              <td class="oswald-light">$1099</td>
             </tr>
             <tr class="ticket-row-odd">
               <td>WEEKENDER *</td>
-              <td class="oswald-light">$599</td>
               <td class="oswald-light">$699</td>
+              <td class="oswald-light">$799</td>
             </tr>
           </tbody>
         </table>
@@ -185,16 +185,16 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
     <div class="row sponsor-row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
         <div class="row">
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+<!--           <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="http://www.fraedom.com">
               <img src="/images/sponsors/logo_fraedom.png" />
             </a>
-          </div>
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+          </div> -->
+<!--           <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="http://www.microsoft.co.nz">
               <img src="/images/sponsors/logo_microsoft.png" />
             </a>
-          </div>
+          </div> -->
           <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="http://pushpay.com">
               <img src="/images/sponsors/logo_pushpay.png" />
@@ -207,33 +207,33 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+<!--           <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="http://www.aucklandnz.com/ateed/">
               <img src="/images/sponsors/logo_ateed.png" height="75" />
             </a>
-          </div>
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+          </div> -->
+<!--           <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="https://octopus.com/">
               <img src="/images/sponsors/logo_octopus.png" />
             </a>
-          </div>
+          </div> -->
         </div>
         <div class="row">
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+<!--           <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="https://serato.com/">
               <img src="/images/sponsors/logo_serato.png" />
             </a>
-          </div>
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+          </div> -->
+<!--           <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="http://www.vodafone.co.nz/">
               <img src="/images/sponsors/logo_vodafone.png" />
             </a>
-          </div>
-          <div class="col-lg-12 col-sm-12 col-xs-12 cm-sponsor-box">
+          </div> -->
+<!--           <div class="col-lg-12 col-sm-12 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="http://www.raygun.io">
               <img src="/images/sponsors/logo_raygun.png" />
             </a>
-          </div>
+          </div> -->
         </div>
         <div class="clearfix"></div>
       </div>
