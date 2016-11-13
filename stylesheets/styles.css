@@ -352,7 +352,7 @@ a.hilite:hover {
 }
 .tickets-box p.legend {
   text-align: right;
-  font-size: 26px;
+  font-size: 13pt;
 }
 .speaker-image-container {
   height: 205px;
@@ -472,14 +472,17 @@ a.hilite:hover {
   top: 1700px;
   width: 85%;
 }
-.castle-overlay {
+.castle-container {
   position: absolute;
-  top: 1990px;
+  top: 1560px;
   width: 100%;
 }
-.castle {
+.castle-container .castle {
+  width: 100%;
+}
+.castle-container .castle-overlay {
   position: absolute;
-  top: 1500px;
+  bottom: 0;
   width: 100%;
 }
 .moon {
