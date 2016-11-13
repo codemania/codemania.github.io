@@ -330,8 +330,11 @@ a.hilite:hover {
 .tickets-box table thead tr td {
   padding-bottom: 15px;
 }
+.tickets-box table thead tr td.venue-column {
+  width: 60%;
+}
 .tickets-box table td {
-  width: 25%;
+  width: 20%;
   padding: 10px;
 }
 .tickets-box table p {
@@ -339,13 +342,17 @@ a.hilite:hover {
   line-height: 20pt;
 }
 .tickets-box table .ticket-row-odd td {
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(35, 54, 43, 0.67);
   cursor: pointer;
 }
 .tickets-box table .ticket-row-even td {
   color: #fff;
-  background: rgba(56, 56, 56, 0.3);
+  background: rgba(76, 92, 82, 0.84);
   cursor: pointer;
+}
+.tickets-box p.legend {
+  text-align: right;
+  font-size: 26px;
 }
 .speaker-image-container {
   height: 205px;
@@ -422,13 +429,13 @@ a.hilite:hover {
   height: 100%;
 }
 .parallax__layer--deep {
-  -webkit-transform: translateZ(-600px) scale(3);
-  transform: translateZ(-600px) scale(3);
+  -webkit-transform: translateZ(-400px) scale(2);
+  transform: translateZ(-400px) scale(2);
   height: 100%;
 }
 .parallax__layer--objects {
-  -webkit-transform: translateZ(-100px) scale(1);
-  transform: translateZ(-100px) scale(1);
+  -webkit-transform: translateZ(-300px) scale(1.5);
+  transform: translateZ(-300px) scale(1.5);
   height: 100%;
 }
 .stars {
@@ -462,17 +469,17 @@ a.hilite:hover {
 }
 .sils2 {
   position: absolute;
-  top: 2600px;
-  width: 100%;
+  top: 1700px;
+  width: 85%;
 }
 .castle-overlay {
   position: absolute;
-  top: 1715px;
+  top: 1990px;
   width: 100%;
 }
 .castle {
   position: absolute;
-  top: 1000px;
+  top: 1500px;
   width: 100%;
 }
 .asteroid1 {
