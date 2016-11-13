@@ -115,13 +115,11 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       <div class="col-sm-3 col-xs-1">
       </div>
       <div class="col-sm-3 col-xs-5 about-text">
-        <p>Codemania is back and better than ever: a full day of information and inspiration from software practitioners at the top of their game. <a href="/agenda.html" class="hilite">Codemania conference</a> will be held at the luxurious Langham Hotel on friday april 1st. Visitors can take advantage of a 10% discount on a room by booking <a href="https://gc.synxis.com/rez.aspx?Hotel=27424&Chain=10316&locale=en-US&promo=PEVENTS" class="hilite">here</a>.</p>
-        <p>This year, you can also join our world-class speakers and an exclusive gathering of your Codemania family for the whole weekend after Codemania conference, in the wonderful surrounds of one of Auckland's most picturesque bush settings. It's an unconference (well, a semi-conference), and we're calling it <a href="/conversations.html" class="hilite">Codemania conversations</a>.</p>
+        <p>Codemania is back and better than ever: a full day of information and inspiration from software practitioners at the top of their game. <a href="/agenda.html" class="hilite">Codemania conference</a> will be held at the luxurious Langham Hotel on Friday April 28th.</p>
+        <p>Once again, you can also join our world-class speakers and an exclusive gathering of your Codemania family for the whole weekend after Codemania conference. <a href="/conversations.html" class="hilite">Codemania conversations</a> returns to the Waitakere Estate: The wonderful surrounds of one of Auckland's most picturesque bush settings.</p>
       </div>
       <div class="col-sm-3 col-xs-5 about-text">
-        <p>For the ultimate Codemania experience, we have a handful (literally, fewer than 10) tickets for the <a href="/agenda.html#codemania-conversations" class="hilite">weekender</a>, which includes access to Codemania conversations plus dinner, overnight stay, and breakfast at the gorgeous Codemania conversations location.</p>
-        <p>The extended Codemania conversations unconference will be at a secret hideaway 40 minutes drive from Auckland city, on saturday 2nd and Sunday 3rd April.</p>
-        <p>Like always, Codemania is for nice people, like you. Please have a read of our <a class="hilite" href="/be-nice.html">be nice policy</a>.</p>
+        <p>Like always, Codemania is an inclusive, space space for all to enjoy. Please have a read of our <a class="hilite" href="/be-nice.html">Code of Conduct</a>.</p>
       </div>
       <div class="col-sm-3 col-xs-1">
       </div>
