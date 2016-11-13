@@ -13,9 +13,6 @@ $('.nav-link').click(function(e) {
 $('.speaker-link').click(function(e){
   window.open('http://twitter.com/'+this.id);
 });
-// $('.speaker-link-pg').click(function(e){
-//   window.open('https://www.cs.auckland.ac.nz/~pgut001/');
-// });
 
 $('.tickets-box table').click(function(){
   window.open('https://codemania-2017.lilregie.com/');
