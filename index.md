@@ -11,6 +11,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
   </div>
   <div class="parallax__layer parallax__layer--deep">
     <div class="stars-deep"></div>
+    <img src="/images/2017/clouds3.svg" class="clouds3" />
     <div class="castle-container">
       <img src="/images/2017/castle.svg" class="castle" />
       <img src="/images/2017/grad.svg" class="castle-overlay" />
@@ -19,6 +20,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
   <div class="parallax__layer parallax__layer--objects">
     <img src="/images/2017/sils1.svg" class="sils1" />
     <img src="/images/2017/sils2.svg" class="sils2" />
+    <img src="/images/2017/clouds4.svg" class="clouds4" />
   </div>
   <div class="parallax__layer parallax__layer--base">
     <div id="top"></div>
