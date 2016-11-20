@@ -317,6 +317,9 @@ a.hilite:hover {
   top: 45%;
   right: 15%;
 }
+.sponsor-row {
+  clear: both;
+}
 .sponsor-row .cm-sponsor-box {
   height: 120px;
   text-align: center;
