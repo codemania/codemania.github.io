@@ -329,7 +329,7 @@ a.hilite:hover {
   margin: 0 0 1.5em;
 }
 .tickets-title {
-  margin: 50px 0 200px;
+  margin: 200px 0 25px;
   position: relative;
 }
 .tickets-title .fuobe2 {
@@ -389,6 +389,9 @@ a.hilite:hover {
 .speaker-image-container {
   height: 205px;
   margin-bottom: -60px;
+}
+.footer-row {
+  margin-top: 150px;
 }
 .two {
   animation-duration: 20s;
