@@ -118,7 +118,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
           <p>Once again, you can also join our world-class speakers and an exclusive gathering of your Codemania family for the whole weekend after Codemania conference. <a href="/conversations.html" class="hilite">Codemania conversations</a> returns to the Waitakere Estate, deep in the heart of one of Auckland's most picturesque bush settings.</p>
         </div>
         <div class="about-text-column">
-          <p>Like always, Codemania is an inclusive, space space for all to enjoy. Please have a read of our <a class="hilite" href="/code-of-conduct.html">Code of Conduct</a>.</p>
+          <p>Like always, Codemania is an inclusive, safe space for all to enjoy. Please have a read of our <a class="hilite" href="/code-of-conduct.html">Code of Conduct</a>.</p>
         </div>
       </div>
     </div>
