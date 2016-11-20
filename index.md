@@ -173,7 +173,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
         <p class="legend">* When purchased with a conference ticket</p>
       </div>
     </div>
-    <div class="row">
+    <div class="row sponsors-title">
       <div class="titleImageContainer" id="sponsors">
         Sponsors
       </div>
