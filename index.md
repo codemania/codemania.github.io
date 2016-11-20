@@ -38,11 +38,11 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="speakers">
+      <div class="titleImageContainer" id="speakers">
         Speakers
       </div>
     </div>
-    <div class="row speaker-row oswald-bold">
+    <div class="speaker-row oswald-bold">
       <div class="speaker-box speaker-link" id="sandimetz">
         <img src="/images/speakers/2017/sandi.png" />
         <p>Sandi Metz</p>
@@ -105,7 +105,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div> -->
     </div>
     <div class="row about-title">
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="about">
+      <div class="titleImageContainer" id="about">
         About
       </div>
       <img src="/images/2017/peggy.svg" class="peggy" />
@@ -125,7 +125,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div>
     </div>
     <div class="row tickets-title">
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="tickets">
+      <div class="titleImageContainer" id="tickets">
         Tickets
       </div>
     </div>
@@ -176,7 +176,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div>
     </div>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="sponsors">
+      <div class="titleImageContainer" id="sponsors">
         Sponsors
       </div>
     </div>
@@ -237,7 +237,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div>
     </div>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="friends">
+      <div class="titleImageContainer" id="friends">
         Friends
       </div>
     </div>
