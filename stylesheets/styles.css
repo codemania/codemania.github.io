@@ -314,6 +314,7 @@ a.hilite:hover {
 .about-text-container .about-text-column {
   width: 50%;
   padding: 0 15px;
+  z-index: 99;
 }
 .about-text-container .about-text-column p {
   margin: 0 0 1.5em;
