@@ -165,7 +165,7 @@ body {
   margin: 0 auto;
 }
 .basic-content-page {
-  background: #208648 url('/images/2017/star-bg.png') 0 0 repeat;
+  background: #208648 url('/images/2016/stars_background.svg') 0 0 repeat;
   margin-top: 70px;
   margin-bottom: 40px;
 }
@@ -592,7 +592,7 @@ a.hilite:hover {
     margin-top: 10px;
   }
   .sponsor-row .cm-sponsor-box {
-    height: 80px;
+    height: 105px;
   }
   .sponsor-row .cm-sponsor-box img {
     height: auto;
