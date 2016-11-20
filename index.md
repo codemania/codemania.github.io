@@ -126,6 +126,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       <div class="titleImageContainer" id="tickets">
         Tickets
       </div>
+      <img src="/images/2017/fuobe2.svg" class="fuobe2" />
     </div>
     <div class="row">
       <!-- 8/12 wide on most, 10/12 wide on mobile -->
