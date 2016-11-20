@@ -243,8 +243,9 @@ a.hilite:hover {
 }
 .titleImageContainer {
   height: 130px;
-  padding-top: 38px;
-  margin-bottom: 30px;
+  width: 775px;
+  padding-top: 35px;
+  margin: 0 auto 30px;
   text-align: center;
   text-transform: uppercase;
   font-weight: 500;
@@ -299,6 +300,27 @@ a.hilite:hover {
   top: -100%;
   right: 20%;
 }
+.about-text-container {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  max-width: 760px;
+  margin: 0 auto;
+  clear: both;
+  font-size: 21px;
+  line-height: 1.2em;
+  justify-content: space-around;
+}
+.about-text-container .about-text-column {
+  width: 50%;
+  padding: 0 15px;
+}
+.about-text-container .about-text-column p {
+  margin: 0 0 1.5em;
+}
+.sponsors-title {
+  margin-top: 100px;
+}
 .about-text {
   font-size: 21px;
   line-height: 1.2em;
@@ -307,7 +329,17 @@ a.hilite:hover {
   margin: 0 0 1.5em;
 }
 .tickets-title {
-  margin: 50px 0 200px;
+  margin: 200px 0 25px;
+  position: relative;
+}
+.tickets-title .fuobe2 {
+  position: absolute;
+  width: 15%;
+  top: 45%;
+  right: 15%;
+}
+.sponsor-row {
+  clear: both;
 }
 .sponsor-row .cm-sponsor-box {
   height: 120px;
@@ -357,6 +389,9 @@ a.hilite:hover {
 .speaker-image-container {
   height: 205px;
   margin-bottom: -60px;
+}
+.footer-row {
+  margin-top: 150px;
 }
 .two {
   animation-duration: 20s;
@@ -510,7 +545,8 @@ a.hilite:hover {
   }
   .titleImageContainer {
     height: 90px;
-    padding-top: 60px;
+    width: 460px;
+    padding-top: 22px;
     margin-bottom: 30px;
   }
   .tickets-box p {
@@ -533,6 +569,12 @@ a.hilite:hover {
   .titleImage {
     height: 30px;
   }
+  .about-text-container {
+    display: block;
+  }
+  .about-text-container .about-text-column {
+    width: 100%;
+  }
   .buytickets {
     margin: -50px auto 0 auto;
     width: 100%;
@@ -550,7 +592,7 @@ a.hilite:hover {
     margin-top: 10px;
   }
   .sponsor-row .cm-sponsor-box {
-    height: 80px;
+    height: 105px;
   }
   .sponsor-row .cm-sponsor-box img {
     height: auto;

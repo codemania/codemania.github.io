@@ -38,11 +38,11 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="speakers">
+      <div class="titleImageContainer" id="speakers">
         Speakers
       </div>
     </div>
-    <div class="row speaker-row oswald-bold">
+    <div class="speaker-row oswald-bold">
       <div class="speaker-box speaker-link" id="sandimetz">
         <img src="/images/speakers/2017/sandi.png" />
         <p>Sandi Metz</p>
@@ -105,29 +105,28 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div> -->
     </div>
     <div class="row about-title">
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="about">
+      <div class="titleImageContainer" id="about">
         About
       </div>
       <img src="/images/2017/peggy.svg" class="peggy" />
       <img src="/images/2017/fuobe1.svg" class="fuobe1" />
     </div>
     <div class="row">
-      <div class="col-sm-3 col-xs-1">
-      </div>
-      <div class="col-sm-3 col-xs-5 about-text">
-        <p>Codemania is back and better than ever: a full day of information and inspiration from software practitioners at the top of their game. <a href="/agenda.html" class="hilite">Codemania conference</a> will be held at the luxurious Langham Hotel on Friday April 28th.</p>
-        <p>Once again, you can also join our world-class speakers and an exclusive gathering of your Codemania family for the whole weekend after Codemania conference. <a href="/conversations.html" class="hilite">Codemania conversations</a> returns to the Waitakere Estate, deep in the heart of one of Auckland's most picturesque bush settings.</p>
-      </div>
-      <div class="col-sm-3 col-xs-5 about-text">
-        <p>Like always, Codemania is an inclusive, space space for all to enjoy. Please have a read of our <a class="hilite" href="/code-of-conduct.html">Code of Conduct</a>.</p>
-      </div>
-      <div class="col-sm-3 col-xs-1">
+      <div class="about-text-container">
+        <div class="about-text-column">
+          <p>Codemania is back and better than ever: a full day of information and inspiration from software practitioners at the top of their game. <a href="/agenda.html" class="hilite">Codemania conference</a> will be held at the luxurious Langham Hotel on Friday April 28th.</p>
+          <p>Once again, you can also join our world-class speakers and an exclusive gathering of your Codemania family for the whole weekend after Codemania conference. <a href="/conversations.html" class="hilite">Codemania conversations</a> returns to the Waitakere Estate, deep in the heart of one of Auckland's most picturesque bush settings.</p>
+        </div>
+        <div class="about-text-column">
+          <p>Like always, Codemania is an inclusive, space space for all to enjoy. Please have a read of our <a class="hilite" href="/code-of-conduct.html">Code of Conduct</a>.</p>
+        </div>
       </div>
     </div>
     <div class="row tickets-title">
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="tickets">
+      <div class="titleImageContainer" id="tickets">
         Tickets
       </div>
+      <img src="/images/2017/fuobe2.svg" class="fuobe2" />
     </div>
     <div class="row">
       <!-- 8/12 wide on most, 10/12 wide on mobile -->
@@ -175,8 +174,8 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
         <p class="legend">* When purchased with a conference ticket</p>
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="sponsors">
+    <div class="row sponsors-title">
+      <div class="titleImageContainer" id="sponsors">
         Sponsors
       </div>
     </div>
@@ -237,7 +236,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div>
     </div>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="friends">
+      <div class="titleImageContainer" id="friends">
         Friends
       </div>
     </div>
@@ -250,7 +249,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
         </div>
       </div>
     </div>
-    <div class="row">
+    <div class="row footer-row">
       <div class="col-xs-10 col-xs-offset-1" id="footer">
         <p>If you'd like to help sponsor New Zealand's most amazing conference for software developers, please get in touch so we can discuss options. <a class="hilite email" href="mailto:sponsors@codemania.co.nz">sponsors@codemania.co.nz</a></p>
       </div>

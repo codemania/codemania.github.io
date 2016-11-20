@@ -27,8 +27,9 @@ a.hilite:hover {
 
 .titleImageContainer {
   height: 130px;
-  padding-top: 38px;
-  margin-bottom: 30px;
+  width: 775px;
+  padding-top: 35px;
+  margin:0 auto 30px;
   text-align: center;
   text-transform: uppercase;
   font-weight: 500;
@@ -94,6 +95,31 @@ a.hilite:hover {
   }
 }
 
+.about-text-container {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  max-width: 760px;
+  margin: 0 auto;
+  clear: both;
+  font-size: 21px;
+  line-height: 1.2em;
+  justify-content: space-around;
+
+  .about-text-column {
+    width: 50%;
+    padding: 0 15px;
+
+    p {
+      margin: 0 0 1.5em;
+    }
+  }
+}
+
+.sponsors-title {
+  margin-top: 100px;
+}
+
 .about-text {
   font-size: 21px;
   line-height: 1.2em;
@@ -104,10 +130,20 @@ a.hilite:hover {
 }
 
 .tickets-title {
-  margin: 50px 0 200px;
+  margin: 200px 0 25px;
+  position: relative;
+
+  .fuobe2 {
+    position: absolute;
+    width: 15%;
+    top: 45%;
+    right: 15%;
+  }
 }
 
 .sponsor-row {
+  clear: both;
+
   .cm-sponsor-box {
     height: 120px;
     text-align: center;
@@ -176,6 +212,10 @@ a.hilite:hover {
   margin-bottom: -60px;
 }
 
+.footer-row {
+  margin-top: 150px;
+}
+
 .two {
   animation-duration: 20s;
   animation-name: spacejail-rotate-2
@@ -240,7 +280,8 @@ a.hilite:hover {
 
   .titleImageContainer {
     height: 90px;
-    padding-top: 60px;
+    width: 460px;
+    padding-top: 22px;
     margin-bottom: 30px
   }
 
@@ -269,6 +310,14 @@ a.hilite:hover {
     height: 30px
   }
 
+  .about-text-container {
+    display: block;
+
+    .about-text-column {
+      width: 100%;
+    }
+  }
+
   .buytickets {
     margin: -50px auto 0 auto;
     width: 100%;
@@ -289,7 +338,8 @@ a.hilite:hover {
   }
 
   .sponsor-row .cm-sponsor-box {
-    height: 80px;
+    height: 105px;
+
     img {
       height: auto;
       width: 200px;
