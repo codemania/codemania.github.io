@@ -112,16 +112,14 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       <img src="/images/2017/fuobe1.svg" class="fuobe1" />
     </div>
     <div class="row">
-      <div class="col-sm-3 col-xs-1">
-      </div>
-      <div class="col-sm-3 col-xs-5 about-text">
-        <p>Codemania is back and better than ever: a full day of information and inspiration from software practitioners at the top of their game. <a href="/agenda.html" class="hilite">Codemania conference</a> will be held at the luxurious Langham Hotel on Friday April 28th.</p>
-        <p>Once again, you can also join our world-class speakers and an exclusive gathering of your Codemania family for the whole weekend after Codemania conference. <a href="/conversations.html" class="hilite">Codemania conversations</a> returns to the Waitakere Estate, deep in the heart of one of Auckland's most picturesque bush settings.</p>
-      </div>
-      <div class="col-sm-3 col-xs-5 about-text">
-        <p>Like always, Codemania is an inclusive, space space for all to enjoy. Please have a read of our <a class="hilite" href="/code-of-conduct.html">Code of Conduct</a>.</p>
-      </div>
-      <div class="col-sm-3 col-xs-1">
+      <div class="about-text-container">
+        <div class="about-text-column">
+          <p>Codemania is back and better than ever: a full day of information and inspiration from software practitioners at the top of their game. <a href="/agenda.html" class="hilite">Codemania conference</a> will be held at the luxurious Langham Hotel on Friday April 28th.</p>
+          <p>Once again, you can also join our world-class speakers and an exclusive gathering of your Codemania family for the whole weekend after Codemania conference. <a href="/conversations.html" class="hilite">Codemania conversations</a> returns to the Waitakere Estate, deep in the heart of one of Auckland's most picturesque bush settings.</p>
+        </div>
+        <div class="about-text-column">
+          <p>Like always, Codemania is an inclusive, space space for all to enjoy. Please have a read of our <a class="hilite" href="/code-of-conduct.html">Code of Conduct</a>.</p>
+        </div>
       </div>
     </div>
     <div class="row tickets-title">
