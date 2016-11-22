@@ -545,11 +545,10 @@ a.hilite:hover {
     line-height: 15pt;
   }
   .titleImageContainer {
-    height: 60px;
-    width: 375px;
-    padding-top: 15px;
+    height: 90px;
+    width: 460px;
+    padding-top: 22px;
     margin-bottom: 30px;
-    font-size: 12pt;
   }
   .tickets-box p {
     margin-left: 10px;
