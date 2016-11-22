@@ -1,9 +1,13 @@
 @import "Lunchbox.css";
+.basic-content-page {
+  line-height: 1.2em;
+}
 .basic-content-page h1,
 .basic-content-page h2,
 .basic-content-page h3 {
   text-align: center;
   font-size: 1em;
+  margin: 0.5em 0 1.5em;
 }
 .basic-content-page h1 {
   font-size: 1.1em;
@@ -14,6 +18,15 @@
   text-transform: uppercase;
   font-weight: normal;
   text-shadow: 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525, 0 0 4px #005525;
+}
+.basic-content-page p {
+  margin: 0 0 1.5em;
+}
+.basic-content-page .mainBody ul {
+  margin: 0 0 1em;
+}
+.basic-content-page .mainBody ul li {
+  margin: 0 0 0.5em;
 }
 .lunchBox-bold {
   font-family: LunchBox-Bold;
@@ -274,11 +287,11 @@ a.hilite:hover {
 }
 .speaker-row .speaker-box {
   text-align: center;
-  width: 150px;
-  margin: 30px 20px;
+  width: 140px;
+  margin: 30px 15px;
 }
 .speaker-row .speaker-box img {
-  width: 150px;
+  width: 140px;
   height: auto;
   margin: 0 0 15px;
   display: block;
@@ -519,6 +532,7 @@ a.hilite:hover {
 .castle-container .castle-overlay {
   position: absolute;
   bottom: 0;
+  left: 0;
   width: 100%;
 }
 .moon {
@@ -545,10 +559,11 @@ a.hilite:hover {
     line-height: 15pt;
   }
   .titleImageContainer {
-    height: 90px;
-    width: 460px;
-    padding-top: 22px;
+    height: 60px;
+    width: 375px;
+    padding-top: 15px;
     margin-bottom: 30px;
+    font-size: 12pt;
   }
   .tickets-box p {
     margin-left: 10px;
