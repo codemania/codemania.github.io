@@ -451,6 +451,10 @@ a.hilite:hover {
   -webkit-animation: zoom 4s ease-in-out infinite alternate;
   animation: zoom 4s ease-in-out infinite alternate;
 }
+body,
+#mainBody {
+  transform: translateZ(0);
+}
 .parallax {
   perspective: 300px;
   height: 100vh;
