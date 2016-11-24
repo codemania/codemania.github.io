@@ -48,7 +48,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       <div class="speaker-box speaker-link" id="sandimetz">
         <img src="/images/speakers/2017/sandi.png" />
         <p>Sandi Metz</p>
-        <p class="byline">Programmer <span class="hilite"></span></p>
+        <p class="byline">Programmer and speaker<span class="hilite"></span></p>
       </div>
       <div class="speaker-box speaker-link" id="madstorgersen">
         <img src="/images/speakers/2017/mads.png" />
@@ -80,21 +80,21 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
         <p>Randall Koutnik</p>
         <p class="byline">Engineer <span class="hilite">@ Netflix</span></p>
       </div>
-<!--       <div class="speaker-box speaker-link" id="kiwipom">
-        <img src="/images/speakers/2017/ben.png" />
-        <p>Katherine Daniels</p>
-        <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div> -->
-<!--       <div class="speaker-box speaker-link" id="kiwipom">
-        <img src="/images/speakers/2017/ben.png" />
-        <p>Katherine Daniels</p>
-        <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div> -->
-<!--       <div class="speaker-box speaker-link" id="kiwipom">
-        <img src="/images/speakers/2017/ben.png" />
-        <p>Katherine Daniels</p>
-        <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div> -->
+      <div class="speaker-box speaker-link" id="jamfish728">
+        <img src="/images/speakers/2017/jamesha.png" />
+        <p>Jamesha Fisher</p>
+        <p class="byline">geek/nerd/king <span class="hilite">@ GitHub</span></p>
+      </div>
+      <div class="speaker-box speaker-link" id="daveathomas">
+        <img src="/images/speakers/2017/dave.png" />
+        <p>Dave Thomas</p>
+        <p class="byline">Chief Scientist <span class="hilite">@ FirstDerivatives</span></p>
+      </div>
+      <div class="speaker-box speaker-link" id="bodil">
+        <img src="/images/speakers/2017/bodil.png" />
+        <p>Bodil Stokke</p>
+        <p class="byline">FP prophet <span class="hilite">@ Trading Technologies</span></p>
+      </div>
 <!--       <div class="speaker-box speaker-link" id="kiwipom">
         <img src="/images/speakers/2017/ben.png" />
         <p>Katherine Daniels</p>
