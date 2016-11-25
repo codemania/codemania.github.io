@@ -1,6 +1,6 @@
 ---
 layout: 2016site
-title: Be Nice
+title: Code of Conduct
 ---
 
 ## Codemania Anti-harassment Policy
