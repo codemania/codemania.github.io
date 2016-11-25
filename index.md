@@ -95,11 +95,11 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
         <p>Bodil Stokke</p>
         <p class="byline">FP prophet <span class="hilite">@ Trading Technologies</span></p>
       </div>
-<!--       <div class="speaker-box speaker-link" id="kiwipom">
-        <img src="/images/speakers/2017/ben.png" />
-        <p>Katherine Daniels</p>
-        <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div> -->
+      <div class="speaker-box speaker-link" id="kirkj">
+        <img src="/images/speakers/2017/kirk.png" />
+        <p>Kirk Jackson</p>
+        <p class="byline">Security <span class="hilite">@ Snapper</span></p>
+      </div>
 <!--       <div class="speaker-box speaker-link" id="kiwipom">
         <img src="/images/speakers/2017/ben.png" />
         <p>Katherine Daniels</p>
