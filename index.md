@@ -63,7 +63,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       <div class="speaker-box speaker-link" id="aphyr">
         <img src="/images/speakers/2017/kyle.png" />
         <p>Kyle Kingsbury</p>
-        <p class="byline">Another Engineer <span class="hilite">@ Stripe</span></p>
+        <p class="byline">Engineer <span class="hilite">@ Jepsen.io</span></p>
       </div>
       <div class="speaker-box speaker-link" id="stack72">
         <img src="/images/speakers/2017/paul.png" />
