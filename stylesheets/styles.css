@@ -397,6 +397,7 @@ a.hilite:hover {
 }
 .tickets-box p.legend {
   text-align: right;
+  margin-right: 12px;
   font-size: 13pt;
 }
 .speaker-image-container {

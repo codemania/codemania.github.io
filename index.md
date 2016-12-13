@@ -138,7 +138,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
             <tr>
               <td class="venue-column"></td>
               <td class="early-column">
-                <p class="oswald-light">EARLY BIRD</p>
+                <p class="oswald-light">EARLY BIRD&#x2020;</p>
               </td>
               <td class="regular-column">
                 <p class="oswald-light">REGULAR</p>
@@ -173,6 +173,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
             </tr>
           </tbody>
         </table>
+        <p class="legend">&#x2020; Ends 31st January, 2017</p>
         <p class="legend">* When purchased with a conference ticket</p>
       </div>
     </div>
