@@ -93,7 +93,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       <div class="speaker-box speaker-link" id="bodil">
         <img src="/images/speakers/2017/bodil.png" />
         <p>Bodil Stokke</p>
-        <p class="byline">FP prophet <span class="hilite">@ Trading Technologies</span></p>
+        <p class="byline">FP prophet</p>
       </div>
       <div class="speaker-box speaker-link" id="kirkj">
         <img src="/images/speakers/2017/kirk.png" />
