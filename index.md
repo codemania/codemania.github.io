@@ -83,7 +83,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       <div class="speaker-box speaker-link" id="jamfish728">
         <img src="/images/speakers/2017/jamesha.png" />
         <p>Jamesha Fisher</p>
-        <p class="byline">geek/nerd/king <span class="hilite">@ GitHub</span></p>
+        <p class="byline">Security Operations Engineer <span class="hilite">@ GitHub</span></p>
       </div>
       <div class="speaker-box speaker-link" id="daveathomas">
         <img src="/images/speakers/2017/dave.png" />
