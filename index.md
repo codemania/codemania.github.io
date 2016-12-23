@@ -73,7 +73,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       <div class="speaker-box speaker-link" id="mseckington">
         <img src="/images/speakers/2017/melinda.png" />
         <p>Melinda Seckington</p>
-        <p class="byline">Developer <span class="hilite">@ Future Learn</span></p>
+        <p class="byline">Developer <span class="hilite">@ FutureLearn</span></p>
       </div>
       <div class="speaker-box speaker-link" id="rkoutnik">
         <img src="/images/speakers/2017/randall.png" />
