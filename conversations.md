@@ -43,10 +43,10 @@ Yes, we will have projectors, and maybe a few slides would help your session. Bu
 
 ## When is it?
 
-Saturday 2nd April
+Saturday 29th April
 09:30 - 18:00
 
-Sunday 3rd April
+Sunday 30th April
 09:00 - 17:00
 
 
