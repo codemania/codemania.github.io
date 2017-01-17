@@ -58,7 +58,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       <div class="speaker-box speaker-link" id="jessitron">
         <img src="/images/speakers/2017/jessica.png" />
         <p>Jessica Kerr</p>
-        <p class="byline">Engineer <span class="hilite">@ Stripe</span></p>
+        <p class="byline">Engineer <span class="hilite">@ Atomist</span></p>
       </div>
       <div class="speaker-box speaker-link" id="aphyr">
         <img src="/images/speakers/2017/kyle.png" />
