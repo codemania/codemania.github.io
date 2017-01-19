@@ -202,7 +202,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
           </div>
           <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="http://www.trademe.co.nz">
-              <img src="/images/sponsors/logo_trademe.png" />
+              <img src="/images/sponsors/tm-logo-white.svg" />
             </a>
           </div>
         </div>
