@@ -361,6 +361,7 @@ a.hilite:hover {
 .sponsor-row .cm-sponsor-box img {
   display: inline-block;
   vertical-align: middle;
+  max-width: 280px;
 }
 .sponsor-row .cm-sponsor-box:before {
   content: '';
