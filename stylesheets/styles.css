@@ -664,6 +664,7 @@ body,
 }
 table.agenda-table {
   width: 100%;
+  margin-bottom: 50px;
 }
 table.agenda-table td {
   text-align: center;
@@ -674,6 +675,7 @@ table.agenda-table tbody td {
 }
 table.agenda-table tbody td h3 {
   color: #FFAD5E;
+  font-size: 1.2em;
 }
 table.agenda-table tbody td a {
   color: #fff;
@@ -688,6 +690,9 @@ table.agenda-table tbody td p {
 table.agenda-table tbody td p.speaker {
   text-transform: uppercase;
   font-size: 18pt;
+}
+#contentContainer {
+  margin-top: 80px;
 }
 #conversations a {
   color: #FFAD5E;

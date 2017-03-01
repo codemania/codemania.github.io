@@ -1,18 +1,13 @@
 ---
-layout: 2016site
+layout: 2017site
 title: Agenda
 ---
-
 
 # Codemania
 
 ### Friday 28th April, 2017
 
-## COMING SOON
-
----
-
-<!-- <table class="agenda-table">
+<table class="agenda-table">
    <tbody>
     <tr>
       <td width="50px">08:45</td>
@@ -21,18 +16,18 @@ title: Agenda
     <tr>
       <td>09:00</td>
       <td colspan="2">
-        <a href="/agenda/gary-bernhardt.html">
-        <p class="speaker">Gary Bernhardt</p>
-        <p class="topic">Keynote: Reproducibility</p>
+        <a href="/agenda/sandi-metz.html">
+        <p class="speaker">Sandi Metz</p>
+        <p class="topic">Keynote: Nothing is Something</p>
         </a>
       </td>
     </tr>
     <tr>
       <td>09:50</td>
       <td colspan="2">
-        <a href="/agenda/katherine-daniels.html">
-        <p class="speaker">Katherine Daniels</p>
-        <p class="topic">Keynote: Putting the Dev in Devops</p>
+        <a href="/agenda/mads-torgersen.html">
+        <p class="speaker">Mads Torgersen</p>
+        <p class="topic">Keynote: TBA</p>
         </a>
       </td>
     </tr>
@@ -43,28 +38,28 @@ title: Agenda
     <tr>
       <td>11:15</td>
       <td>
-        <a href="/agenda/peter-gutmann.html">
-        <p class="speaker">Peter Gutmann</p>
-        <p class="topic">Cyberwar before there was Cyber&#58; Hacking WWII Electronic Bomb Fuses</p>
+        <a href="/agenda/melinda-seckington.html">
+        <p class="speaker">Melinda Seckington</p>
+        <p class="topic">Reflect and Refactor</p>
         </a>
       </td>
-      <td><a href="/agenda/andreia-gaita.html">
-        <p class="speaker">Andreia Gaita</p>
-        <p class="topic">From 0 to open source - shipping the GitHub Extension for Visual Studio</p></a>
+      <td><a href="/agenda/nick-walker.html">
+        <p class="speaker">Nick Walker</p>
+        <p class="topic">Topic TBA</p></a>
       </td>
     </tr>
     <tr>
       <td>12:00</td>
       <td>
-        <a href="/agenda/peter-goodman.html">
-        <p class="speaker">Pete Goodman</p>
-        <p class="topic">DevOps: Learning how to go fast without tripping over the cables</p>
+        <a href="/agenda/dave-thomas.html">
+        <p class="speaker">Dave Thomas</p>
+        <p class="topic">10 Ways to Accelerate Software Delivery</p>
         </a>
       </td>
       <td>
         <a href="/agenda/nicola-gaston.html">
-        <p class="speaker">Nicola Gaston</p>
-        <p class="topic">The limits of reductionism</p>
+        <p class="speaker">Randall Koutnik</p>
+        <p class="topic">What are observables and why shoud I care?</p>
         </a>
       </td>
     </tr>
@@ -75,30 +70,30 @@ title: Agenda
     <tr>
       <td>13:45</td>
       <td>
-        <a href="/agenda/duretti-hirpa.html">
-        <p class="speaker">Duretti Hirpa</p>
-        <p class="topic">Good APIs make Good UIs</p>
+        <a href="/agenda/jamesha-fisher.html">
+        <p class="speaker">Jamesha Fisher</p>
+        <p class="topic">Security in Automation</p>
         </a>
       </td>
       <td>
-        <a href="/agenda/ivan-towlson.html">
-        <p class="speaker">Ivan Towlson</p>
-        <p class="topic">How I Learned to Stop Worrying and Love the Zygohistomorphic Prepromorphism</p>
+        <a href="/agenda/bodil-stokke.html">
+        <p class="speaker">Bodil Stokke</p>
+        <p class="topic">Topic TBA</p>
         </a>
       </td>
     </tr>
     <tr>
       <td>14:30</td>
       <td>
-        <a href="/agenda/amanda-laucher.html">
-        <p class="speaker">Amanda Laucher</p>
-        <p class="topic">Property Based Testing - Shrinking Risk In Your Code</p>
+        <a href="/agenda/kirk-jackson.html">
+        <p class="speaker">Kirk Jackson</p>
+        <p class="topic">Topic TBA</p>
         </a>
       </td>
       <td>
-        <a href="/agenda/sarah-mei.html">
-        <p class="speaker">Sarah Mei</p>
-        <p class="topic">Factory, Workshop, Stage</p>
+        <a href="/agenda/paul-stack.html">
+        <p class="speaker">Paul Stack</p>
+        <p class="topic">Topic TBA</p>
         </a>
       </td>
     </tr>
@@ -109,18 +104,18 @@ title: Agenda
     <tr>
       <td>15:45</td>
       <td colspan="2">
-        <a href="/agenda/sam-newman.html">
-        <p class="speaker">Sam Newman</p>
-        <p class="topic">Locknote: Deploying and Scaling Microservices</p>
+        <a href="/agenda/kyle-kingsbury.html">
+        <p class="speaker">Kyle Kingsbury</p>
+        <p class="topic">Jepsen 7: Anna Concurrenina</p>
         </a>
       </td>
     </tr>
     <tr>
       <td>16:35</td>
       <td colspan="2">
-        <a href="/agenda/suz-hinton.html">
-        <p class="speaker">Suz Hinton</p>
-        <p class="topic">Locknote: Refactoring the Dinosaur</p>
+        <a href="/agenda/jessica-kerr.html">
+        <p class="speaker">Jessica Kerr</p>
+        <p class="topic">More Business Code, Less Boring Coding</p>
         </a>
       </td>
     </tr>
@@ -129,7 +124,7 @@ title: Agenda
       <td colspan="2">Closing Notes</td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
 # Codemania Conversations
 
