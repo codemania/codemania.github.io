@@ -27,7 +27,7 @@ title: Agenda
       <td colspan="2">
         <a href="/agenda/mads-torgersen.html">
         <p class="speaker">Mads Torgersen</p>
-        <p class="topic">Keynote: TBA</p>
+        <p class="topic">Keynote: Going Open</p>
         </a>
       </td>
     </tr>

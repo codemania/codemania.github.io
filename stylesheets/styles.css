@@ -661,6 +661,7 @@ body,
 }
 .blurb-speaker-image {
   float: right;
+  margin-left: 15px;
 }
 table.agenda-table {
   width: 100%;
