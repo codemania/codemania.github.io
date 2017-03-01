@@ -57,7 +57,7 @@ title: Agenda
         </a>
       </td>
       <td>
-        <a href="/agenda/nicola-gaston.html">
+        <a href="/agenda/randall-koutnik.html">
         <p class="speaker">Randall Koutnik</p>
         <p class="topic">What are observables and why shoud I care?</p>
         </a>

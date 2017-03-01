@@ -3,7 +3,7 @@ layout: speaker2017
 speakerName: Jessica Kerr
 title: Jessica Kerr
 speakerTwitter: jessitron
-speakerBio: ... bio coming soon ...
+speakerBio: Jessica Kerr is a software developer with a hobby of presenting at conferences and teaching custom on-site git workshops. Her mission is to bridge the gap between object-oriented and functional development; learning new technologies and finding the essential concepts inside; and trigger insight in other minds.
 speakerImage: 2017/jessica.png
 talkTitle: More Business Code, Less Boring Coding
 talkBlurb: |
