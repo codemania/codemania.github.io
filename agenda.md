@@ -87,7 +87,7 @@ title: Agenda
       <td>
         <a href="/agenda/kirk-jackson.html">
         <p class="speaker">Kirk Jackson</p>
-        <p class="topic">Topic TBA</p>
+        <p class="topic">Hack the world like the 1980's</p>
         </a>
       </td>
       <td>

@@ -3,7 +3,10 @@ layout: speaker2017
 speakerName: Dave Thomas
 title: Dave Thomas
 speakerTwitter: daveathomas
-speakerBio: ... bio coming soon ...
+speakerBio: |
+    Dave Thomas, Chief Scientist/CSO, Kx Systems, Co-Founder and past Chairman of Bedarra Research Labs (BRL), creators of the Ivy visual analytics workbench and ACM Distinguished Engineer. Founder and past CEO of Object Technology International (OTI), becoming CEO of IBM OTI Labs after its sale to IBM.<br/>
+    With a unique ability to see the future and translate research into competitive products, he is known for his contributions to Object Technology including IBM VisualAge and Eclipse IDEs, Smalltalk and Java virtual machines.<br/>
+    Dave is founder and chairman of the YOW! Australia and Lambda Jam conferences, and is a GOTO Conference Fellow.
 speakerImage: 2017/dave.png
 talkTitle: 10 Ways to Accelerate Software Delivery
 talkBlurb: |
