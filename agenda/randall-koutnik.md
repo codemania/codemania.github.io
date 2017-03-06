@@ -3,7 +3,9 @@ layout: speaker2017
 speakerName: Randall Koutnik
 title: Randall Koutnik
 speakerTwitter: rkoutnik
-speakerBio: ... bio coming soon ...
+speakerBio: |
+    Randall is a senior software engineer at Netflix, building tools that wake up other Netflixers when things break.  To offset that karma, he's adopted a cat that wakes him up whenever a new JavaScript framework is released.  He doesn't get much sleep.<br/><br/>
+    You can find his words in written form at <a class="hilite" href="https://rkoutnik.com/">https://rkoutnik.com/</a> and shorter words at <a class="hilite" href="https://twitter.com/rkoutnik">@rkoutnik</a>
 speakerImage: 2017/randall.png
 talkTitle: What are observables and why should I care?
 talkBlurb: |

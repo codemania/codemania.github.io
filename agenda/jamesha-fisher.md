@@ -3,7 +3,7 @@ layout: speaker2017
 speakerName: Jamesha Fisher
 title: Jamesha Fisher
 speakerTwitter: jamfish728
-speakerBio: Jamesha Fisher has worked in the Tech industry for over 10 years, with a keen eye towards security. Currently a Security Operations Engineer at GitHub, she has lent her security expertise throughout her career in Operations and Systems Engineering to other companies including Google and CloudPassage. In her spare time she is a maker of things musical, delicious, and objects that use binary numbers. You can find her on twitter as @jamfish728.
+speakerBio: Jamesha Fisher has worked in the Tech industry for over 10 years, with a keen eye towards security. Currently a Security Operations Engineer at GitHub, she has lent her security expertise throughout her career in Operations and Systems Engineering to other companies including Google and CloudPassage. In her spare time she is a maker of things musical, delicious, and objects that use binary numbers. You can find her on twitter as <a class="hilite" href="http://twitter.com/jamfish728">@jamfish728</a>.
 speakerImage: 2017/jamesha.png
 talkTitle: Security in Automation
 talkBlurb: |
