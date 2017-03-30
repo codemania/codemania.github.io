@@ -78,7 +78,7 @@ title: Agenda
       <td>
         <a href="/agenda/bodil-stokke.html">
         <p class="speaker">Bodil Stokke</p>
-        <p class="topic">Topic TBA</p>
+        <p class="topic">The Perfect Language</p>
         </a>
       </td>
     </tr>
@@ -93,7 +93,7 @@ title: Agenda
       <td>
         <a href="/agenda/paul-stack.html">
         <p class="speaker">Paul Stack</p>
-        <p class="topic">Topic TBA</p>
+        <p class="topic">Continuously Delivering Infrastructure using Packer and Terraform</p>
         </a>
       </td>
     </tr>
