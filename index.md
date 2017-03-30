@@ -186,11 +186,6 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
         <div class="row">
 <!--           <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
-            <a target="_blank" href="http://www.fraedom.com">
-              <img src="/images/sponsors/logo_fraedom.png" />
-            </a>
-          </div> -->
-<!--           <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="http://www.microsoft.co.nz">
               <img src="/images/sponsors/logo_microsoft.png" />
             </a>
@@ -219,6 +214,16 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
           </div> -->
         </div>
         <div class="row">
+          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+            <a target="_blank" href="http://www.fraedom.com">
+              <img src="/images/sponsors/logo_fraedom.png" />
+            </a>
+          </div>
+          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+            <a target="_blank" href="http://www.xero.com">
+              <img src="/images/sponsors/logo-xero.png" />
+            </a>
+          </div>
 <!--           <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="https://serato.com/">
               <img src="/images/sponsors/logo_serato.png" />
