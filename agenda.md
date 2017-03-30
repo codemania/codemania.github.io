@@ -59,7 +59,7 @@ title: Agenda
       <td>
         <a href="/agenda/randall-koutnik.html">
         <p class="speaker">Randall Koutnik</p>
-        <p class="topic">What are observables and why shoud I care?</p>
+        <p class="topic">What are observables and why should I care?</p>
         </a>
       </td>
     </tr>
