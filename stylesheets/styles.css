@@ -358,10 +358,11 @@ a.hilite:hover {
   height: 120px;
   text-align: center;
 }
-.sponsor-row .cm-sponsor-box img {
+.sponsor-row .cm-sponsor-box a img {
   display: inline-block;
   vertical-align: middle;
   max-width: 280px;
+  max-height: 120px;
 }
 .sponsor-row .cm-sponsor-box:before {
   content: '';
