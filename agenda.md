@@ -45,7 +45,7 @@ title: Agenda
       </td>
       <td><a href="/agenda/nick-walker.html">
         <p class="speaker">Nick Walker</p>
-        <p class="topic">Topic TBA</p></a>
+        <p class="topic">Making Microservices Durable</p></a>
       </td>
     </tr>
     <tr>
