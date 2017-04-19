@@ -45,20 +45,15 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       </div>
     </div>
     <div class="speaker-row oswald-bold">
-      <div class="speaker-box speaker-link" id="sandimetz">
-        <img src="/images/speakers/2017/sandi.png" />
-        <p>Sandi Metz</p>
-        <p class="byline">Programmer and speaker<span class="hilite"></span></p>
+      <div class="speaker-box speaker-link" id="jessitron">
+        <img src="/images/speakers/2017/jessica.png" />
+        <p>Jessica Kerr</p>
+        <p class="byline">Engineer <span class="hilite">@ Atomist</span></p>
       </div>
       <div class="speaker-box speaker-link" id="madstorgersen">
         <img src="/images/speakers/2017/mads.png" />
         <p>Mads Torgersen</p>
         <p class="byline">C# guy <span class="hilite">@ Microsoft</span></p>
-      </div>
-      <div class="speaker-box speaker-link" id="jessitron">
-        <img src="/images/speakers/2017/jessica.png" />
-        <p>Jessica Kerr</p>
-        <p class="byline">Engineer <span class="hilite">@ Atomist</span></p>
       </div>
       <div class="speaker-box speaker-link" id="aphyr">
         <img src="/images/speakers/2017/kyle.png" />
@@ -105,11 +100,11 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
         <p>Nick Walker</p>
         <p class="byline">Platform <span class="hilite">@ Vend</span></p>
       </div>
-<!--       <div class="speaker-box speaker-link" id="kiwipom">
-        <img src="/images/speakers/2017/ben.png" />
-        <p>Katherine Daniels</p>
-        <p class="byline">Programmer <span class="hilite">@ Destroy All Software</span></p>
-      </div> -->
+      <div class="speaker-box speaker-link" id="kiwipom">
+        <img src="/images/speakers/2017/ian.png" />
+        <p>Ian Randall</p>
+        <p class="byline">Engineer <span class="hilite">@ Pushpay</span></p>
+      </div>
     </div>
     <div class="row about-title">
       <div class="titleImageContainer" id="about">

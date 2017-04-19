@@ -16,9 +16,9 @@ title: Agenda
     <tr>
       <td>09:00</td>
       <td colspan="2">
-        <a href="/agenda/sandi-metz.html">
-        <p class="speaker">Sandi Metz</p>
-        <p class="topic">Keynote: Nothing is Something</p>
+        <a href="/agenda/jessica-kerr.html">
+        <p class="speaker">Jessica Kerr</p>
+        <p class="topic">Keynote: More Business Code, Less Boring Coding</p>
         </a>
       </td>
     </tr>
@@ -45,7 +45,7 @@ title: Agenda
       </td>
       <td><a href="/agenda/nick-walker.html">
         <p class="speaker">Nick Walker</p>
-        <p class="topic">Topic TBA</p></a>
+        <p class="topic">Making Microservices Durable</p></a>
       </td>
     </tr>
     <tr>
@@ -76,9 +76,9 @@ title: Agenda
         </a>
       </td>
       <td>
-        <a href="/agenda/bodil-stokke.html">
-        <p class="speaker">Bodil Stokke</p>
-        <p class="topic">The Perfect Language</p>
+        <a href="/agenda/ian-randall.html">
+        <p class="speaker">Ian Randall</p>
+        <p class="topic">From Inception to Production</p>
         </a>
       </td>
     </tr>
@@ -113,9 +113,9 @@ title: Agenda
     <tr>
       <td>16:35</td>
       <td colspan="2">
-        <a href="/agenda/jessica-kerr.html">
-        <p class="speaker">Jessica Kerr</p>
-        <p class="topic">More Business Code, Less Boring Coding</p>
+        <a href="/agenda/bodil-stokke.html">
+        <p class="speaker">Bodil Stokke</p>
+        <p class="topic">The Perfect Language</p>
         </a>
       </td>
     </tr>
