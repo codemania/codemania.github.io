@@ -3,7 +3,7 @@ layout: speaker2017
 speakerName: Kirk Jackson
 title: Kirk Jackson
 speakerTwitter: kirkj
-speakerBio: Kirk is the Security Lead at Snapper, a public transport ticketing company. Previously he lead security at Xero, and was a C# developer. He has a strong focus on secure development and currently leads the Wellington OWASP chapter and helps organise the NZ OWASP Day conference.
+speakerBio: Kirk is an Application Security Analyst at RedShield. Previously he lead security at Snapper, Xero, and was a C# developer. He has a strong focus on secure development and currently leads the Wellington OWASP chapter and helps organise the NZ OWASP Day conference.
 speakerImage: 2017/kirk.png
 talkTitle: Hack the world like the 1980's
 talkBlurb: |
