@@ -93,7 +93,7 @@ title: Codemania 2017 - New Zealand's Premier Software Conference
       <div class="speaker-box speaker-link" id="kirkj">
         <img src="/images/speakers/2017/kirk.png" />
         <p>Kirk Jackson</p>
-        <p class="byline">Security <span class="hilite">@ Snapper</span></p>
+        <p class="byline">Security <span class="hilite">@ RedShield</span></p>
       </div>
       <div class="speaker-box speaker-link" id="nz_walker">
         <img src="/images/speakers/2017/nick.jpg" />
